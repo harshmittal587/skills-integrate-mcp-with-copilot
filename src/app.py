@@ -69,6 +69,12 @@ activities = {
         "max_participants": 10,
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
     },
+    "GitHub Skills": {
+        "description": "Practical GitHub collaboration and developer skills training",
+        "schedule": "Wednesdays, 4:30 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": []
+    },
     "Debate Team": {
         "description": "Develop public speaking and argumentation skills",
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
